@@ -1,0 +1,6 @@
+D:\VisualStudio_Projects\CourseHackerU\MainProject\FlightsSystem\FlightsSystem\bin\Debug\FlightsSystem.dll
+D:\VisualStudio_Projects\CourseHackerU\MainProject\FlightsSystem\FlightsSystem\bin\Debug\FlightsSystem.pdb
+D:\VisualStudio_Projects\CourseHackerU\MainProject\FlightsSystem\FlightsSystem\obj\Debug\FlightsSystem.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\MainProject\FlightsSystem\FlightsSystem\obj\Debug\FlightsSystem.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\MainProject\FlightsSystem\FlightsSystem\obj\Debug\FlightsSystem.dll
+D:\VisualStudio_Projects\CourseHackerU\MainProject\FlightsSystem\FlightsSystem\obj\Debug\FlightsSystem.pdb

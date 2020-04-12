@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsSystem", "FlightsSystem\FlightsSystem.csproj", "{63137B29-074D-4549-BDA5-00758003B7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_FlightSystem_API", "Test_FlightSystem_API\Test_FlightSystem_API.csproj", "{7B9D5F83-CBEF-4C68-983A-3A9602879FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63137B29-074D-4549-BDA5-00758003B7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63137B29-074D-4549-BDA5-00758003B7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63137B29-074D-4549-BDA5-00758003B7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63137B29-074D-4549-BDA5-00758003B7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9D5F83-CBEF-4C68-983A-3A9602879FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9D5F83-CBEF-4C68-983A-3A9602879FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9D5F83-CBEF-4C68-983A-3A9602879FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9D5F83-CBEF-4C68-983A-3A9602879FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34045F09-7F15-43F1-AFE5-C9EBB4626AB0}
+	EndGlobalSection
+EndGlobal
